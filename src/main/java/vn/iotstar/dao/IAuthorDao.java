@@ -17,6 +17,7 @@ public interface IAuthorDao extends JpaRepository<Author, Integer> {
 	List<Author> findAll();
 	List<Author> searchByName(String catname);
 	List<Author> findAll(int page, int pagesize);
+	Page<Author> findAll(Pageable pageable);
     Page<Author> findByNameContaining(String name, Pageable pageable);
     long count();
 
