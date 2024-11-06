@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
+<a href="${pageContext.request.contextPath}/admin/authors">List author</a>
+<a href="${pageContext.request.contextPath}/admin/books">List book</a>
 Trang của ADMIN
 </body>
 </html>

@@ -1,4 +1,6 @@
 eclipse.preferences.version=1
 encoding//src/main/webapp/views/admin/author-list.jsp=UTF-8
+encoding//src/main/webapp/views/admin/book-list.jsp=UTF-8
+encoding//src/main/webapp/views/admin/detail-book.jsp=UTF-8
 encoding//src/main/webapp/views/admin/home.jsp=UTF-8
 encoding//src/main/webapp/views/login.jsp=UTF-8
